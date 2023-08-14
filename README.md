@@ -1,7 +1,27 @@
-# JU-JONGHUN
+<div align="center">
+  
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wn1331"/>
+  
+## JU-JONGHUN
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwn1331&count_bg=%238699D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wn1331&show_icons=true&theme=radical)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wn1331)](https://solved.ac/wn1331/)
+<a href="https://wn1331.tistory.com"></a> <a href="https://www.notion.so/5bab360fdadc4f6aad919535efb81643"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+
+  🎓 용인대학교 컴퓨터과학과 졸업  
+ 
+  <br>
+ 
+</div>
+
+
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wn1331&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wn1331&show_icons=true&theme=radical)
+</div>
+
 ## Skills
 ![JAVA](https://img.shields.io/badge/Java-FFFFFF.svg?&style=for-the-badge&logo=OpenJDK&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
