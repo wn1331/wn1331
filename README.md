@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wn1331&layout=compact&hide=javascript,css,scss,html,c%23&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wn1331&layout=compact&hide=css,scss,html,c%23&theme=dracula&langs_count=8"/>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wn1331&show_icons=true&theme=radical)
 </div>
