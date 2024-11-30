@@ -3,7 +3,9 @@
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wn1331"/>
   
 ## JU-JONGHUN
-  
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwn1331&count_bg=%238699D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://wn1331.tistory.com"></a> <a href="https://www.notion.so/5bab360fdadc4f6aad919535efb81643"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
