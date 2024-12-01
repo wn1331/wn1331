@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wn1331"/>
   
 ## JU-JONGHUN
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
