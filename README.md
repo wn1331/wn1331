@@ -7,7 +7,7 @@
 </a>
 
 
-<a href="https://wn1331.tistory.com"></a> <a href="https://www.notion.so/5bab360fdadc4f6aad919535efb81643"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+<a href="https://wn1331.tistory.com"></a> <a href="https://www.notion.so/5bab360fdadc4f6aad91ㄴ9535efb81643"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
 
   🎓 용인대학교 컴퓨터과학과 졸업  
  
