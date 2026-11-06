@@ -6,11 +6,11 @@
 
 Java, Kotlin, TypeScript와 Spring·Node.js 생태계를 활용해 안정적인 백엔드 시스템을 개발합니다.
 
-<a href="https://wn1331.tistory.com">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Blog" />
+<a href="https://jonghun.dev/blog">
+  <img src="https://img.shields.io/badge/Blog-jonghun.dev-000000?style=flat-square" alt="jonghun.dev Blog" />
 </a>
-<a href="https://www.notion.so/5bab360fdadc4f6aad919535efb81643">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio" />
+<a href="https://jonghun.dev">
+  <img src="https://img.shields.io/badge/Portfolio-jonghun.dev-000000?style=flat-square" alt="jonghun.dev Portfolio" />
 </a>
 
 🎓 용인대학교 컴퓨터과학과 졸업
