@@ -27,13 +27,6 @@ Java와 Spring 생태계를 중심으로 안정적인 백엔드 시스템을 개
 
 - [rabbitmq/rabbitmq-server#18256](https://github.com/rabbitmq/rabbitmq-server/pull/18256) — Fixed invalid management schema mappings that prevented example `rabbitmq.conf` generation.
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wn1331&show_icons=true&theme=tokyonight" alt="Jonghun's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wn1331&layout=compact&hide=css,scss,html,c%23&theme=tokyonight&langs_count=8" alt="Most used languages" />
-</div>
-
 ## Skills
 
 ### Backend
