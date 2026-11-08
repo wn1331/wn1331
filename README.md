@@ -23,6 +23,18 @@ Java, Kotlin, TypeScript와 Spring·Node.js 생태계를 활용해 안정적인 
 
 ## Open Source Contributions
 
+### Apache Kafka
+
+- [apache/kafka#24117](https://github.com/apache/kafka/pull/24117) — Fixed exception assertions that silently passed when no exception was thrown in `DescribeTopicPartitionsRequestHandlerTest`.
+
+### Redisson
+
+- [redisson/redisson#7427](https://github.com/redisson/redisson/pull/7427) — Fixed reactive `XTRIM` serialization to honor Spring Data Redis 4.1 trimming options and deletion policies.
+
+### Node Redis
+
+- [redis/node-redis#3587](https://github.com/redis/node-redis/pull/3587) — Fixed `FT.AGGREGATE` argument serialization so `SORTBY` excludes the optional `MAX` clause from its argument count.
+
 ### RabbitMQ
 
 - [rabbitmq/rabbitmq-server#18256](https://github.com/rabbitmq/rabbitmq-server/pull/18256) — Fixed invalid management schema mappings that prevented example `rabbitmq.conf` generation.
