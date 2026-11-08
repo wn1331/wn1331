@@ -25,7 +25,7 @@ Java, Kotlin, TypeScript와 Spring·Node.js 생태계를 활용해 안정적인 
 
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/apache/kafka/pull/24117)
 [![Redisson](https://img.shields.io/badge/Redisson-DC382D?style=flat-square)](https://github.com/redisson/redisson/pull/7427)
-[![Node Redis](assets/node-redis.svg)](https://github.com/redis/node-redis/pull/3587)
+[![Redis](assets/node-redis.svg)](https://github.com/redis/node-redis/pull/3587)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://github.com/rabbitmq/rabbitmq-server/pull/18256)
 
 ## Skills
