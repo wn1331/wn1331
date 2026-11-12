@@ -23,10 +23,23 @@ Java, Kotlin, TypeScript와 Spring·Node.js 생태계를 활용해 안정적인 
 
 ## Open Source Contributions
 
-[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/apache/kafka/pull/24117)
-[![Redisson](https://img.shields.io/badge/Redisson-DC382D?style=flat-square)](https://github.com/redisson/redisson/pull/7427)
-[![Redis](assets/node-redis.svg)](https://github.com/redis/node-redis/pull/3587)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://github.com/rabbitmq/rabbitmq-server/pull/18256)
+![Merged](https://img.shields.io/badge/Merged-11-2EA44F?style=flat-square)
+
+### Merged
+
+| Project | Contribution | PR |
+| --- | --- | --- |
+| Spring AMQP | Preserve the failure cause for rejected AMQP 1.0 publishes | [#3850](https://github.com/spring-projects/spring-amqp/pull/3850) |
+| Slack Java SDK | Deserialize camelCase Slack Lists link fields | [#1682](https://github.com/slackapi/java-slack-sdk/pull/1682) |
+| Spring Kafka | Recreate failed producers after `InvalidPidMappingException` | [#4919](https://github.com/spring-projects/spring-kafka/pull/4919) |
+| Spring Framework | Remove obsolete RAR deployment documentation | [#37667](https://github.com/spring-projects/spring-framework/pull/37667) |
+| Apache Kafka | Fix vacuous assertions in topic-partition request handler tests | [#24117](https://github.com/apache/kafka/pull/24117) |
+| node-redis | Correct `SORTBY` argument counting in `FT.AGGREGATE` | [#3587](https://github.com/redis/node-redis/pull/3587) |
+| Redisson | Fix Reactive `XTRIM` handling of Spring Data Redis options | [#7427](https://github.com/redisson/redisson/pull/7427) |
+| Redisson | Fix Reactive `XADD` handling of Spring Data Redis 4.1 options | [#7428](https://github.com/redisson/redisson/pull/7428) |
+| Redisson | Fix Reactive `XCLAIM` handling of Spring Data Redis options | [#7429](https://github.com/redisson/redisson/pull/7429) |
+| Spring Kafka | Remove deprecated `ConsumerRecords` constructors | [#4901](https://github.com/spring-projects/spring-kafka/pull/4901) |
+| RabbitMQ | Remove invalid `include_default` schema mappings | [#18256](https://github.com/rabbitmq/rabbitmq-server/pull/18256) |
 
 ## Skills
 
